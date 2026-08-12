@@ -1,0 +1,6 @@
+{
+  "name": "Smart Government Scheme Assistant",
+  "description": "Bilingual AI-powered platform to discover, verify eligibility, and apply for Indian government schemes with official verified sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
